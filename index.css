@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    background-color:Darkviolet ;
+    color: white;
+}
+p{
+  text-align: center;
+  font-size: 30px;
+}
+ h1 p{
+	 text-align: center;
+	 font-size:70px ;
+}
+img{
+	height: 400px;
+}
+footer img{
+	height: 100px;
+	
+}
+ footer p{
+ 	background-color: PaleVioletRed;
+ 	font-size: 30px;
+ }
+ a{
+ 	font-size: 40px;
+ 	background-color: Darkviolet;
+ 	color:black ;
+ }
